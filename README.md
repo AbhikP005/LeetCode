@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/AbhikP005/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/AbhikP005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/AbhikP005/LeetCode/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AbhikP005/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhikP005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/AbhikP005/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/AbhikP005/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -75,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AbhikP005/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/AbhikP005/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/AbhikP005/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AbhikP005/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/AbhikP005/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
