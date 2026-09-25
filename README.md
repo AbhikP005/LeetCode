@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AbhikP005/LeetCode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/AbhikP005/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AbhikP005/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AbhikP005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AbhikP005/LeetCode/tree/master/0053-maximum-subarray) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AbhikP005/LeetCode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/AbhikP005/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/AbhikP005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AbhikP005/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AbhikP005/LeetCode/tree/master/0088-merge-sorted-array) |
